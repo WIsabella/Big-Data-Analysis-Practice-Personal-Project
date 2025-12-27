@@ -1,6 +1,5 @@
 *.safetensors
 *.pt
 *.pth
-*.pdf
-*.docx
 .vscode/
+node_modules/

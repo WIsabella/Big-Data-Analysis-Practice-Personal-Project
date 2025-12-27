@@ -1,0 +1,6 @@
+*.safetensors
+*.pt
+*.pth
+*.pdf
+*.docx
+.vscode/

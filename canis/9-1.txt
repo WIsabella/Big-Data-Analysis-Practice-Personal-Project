@@ -1,0 +1,36 @@
+{
+  "charts": [
+    {
+      "source": "./charts/polio.dsvg"
+    }
+  ],
+  "animations": [
+    {
+      "selector": ".symbol",
+      "grouping": {
+        "groupBy": "Year",
+        "reference": "start after previous",
+        "sort": {
+          "field": "Year",
+          "order": "descending"
+        },
+        "grouping": {
+          "groupBy": "id",
+          "delay": 30
+        }
+      },
+      "effects": [
+        {
+          "type": "wipe bottom",
+          "duration": 500,
+          "easing": "easeOutQuad"
+        },
+        {
+          "type": "fade",
+          "duration": 500,
+          "reference": "start with previous"
+        }
+      ]
+    }
+  ]
+}

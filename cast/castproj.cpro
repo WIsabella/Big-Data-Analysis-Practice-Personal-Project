@@ -1,0 +1,83 @@
+{
+  "spec": {
+    "charts": [
+      {
+        "source": "2941c21d765a59c91cdab44553678e80.svg",
+        "type": "url"
+      }
+    ],
+    "animations": [
+      {
+        "selector": "#mark1001, #mark1002, #mark1003, #mark1004, #mark1005, #mark1006, #mark1007, #mark1008, #mark1009, #mark1010, #mark1011, #mark1012, #mark1013, #mark1014, #mark1015, #mark1016, #mark1017, #mark1018, #mark1019, #mark1020, #mark1021, #mark1022, #mark1023, #mark1024, #mark1025, #mark1026, #mark1027, #mark1028, #mark1029, #mark1030, #mark1031, #mark1032, #mark1033, #mark1034, #mark1035, #mark1036, #mark1037, #mark1038, #mark1039, #mark1040, #mark1041, #mark1042, #mark1043, #mark1044, #mark1045, #mark1046, #mark1047, #mark1048, #mark1049, #mark1050, #mark1051, #mark1052, #mark1053, #mark1054, #mark1055, #mark1056, #mark1057, #mark1058, #mark1059, #mark1060, #mark1061, #mark1062, #mark1063, #mark1064, #mark1065, #mark1066, #mark1067, #mark1068, #mark1069, #mark1070, #mark1071, #mark1072, #mark1073, #mark1074, #mark1075, #mark1076, #mark1077, #mark1078, #mark1079, #mark1080, #mark1081, #mark1082, #mark1083, #mark1084, #mark1085, #mark1086, #mark1087, #mark1088, #mark1089, #mark1090, #mark1091, #mark1092, #mark1093, #mark1094, #mark1095, #mark1096, #mark1097, #mark1098, #mark1099, #mark1100, #mark1101, #mark1102, #mark1103, #mark1104, #mark1105, #mark1106, #mark1107, #mark1108, #mark1109, #mark1110, #mark1111, #mark1112, #mark1113, #mark1114, #mark1115, #mark1116, #mark1117, #mark1118, #mark1119, #mark1120, #mark1121, #mark1122, #mark1123, #mark1124, #mark1125, #mark1126, #mark1127, #mark1128, #mark1129, #mark1130, #mark1131, #mark1132, #mark1133, #mark1134, #mark1135, #mark1136, #mark1137, #mark1138, #mark1139, #mark1140, #mark1141, #mark1142, #mark1143, #mark1144, #mark1145, #mark1146, #mark1147, #mark1148, #mark1149, #mark1150, #mark1151, #mark1152, #mark1153, #mark1154, #mark1155, #mark1156, #mark1157, #mark1158, #mark1159, #mark1160, #mark1161, #mark1162, #mark1163, #mark1164, #mark1165, #mark1166, #mark1167, #mark1168, #mark1169, #mark1170, #mark1171, #mark1172, #mark1173, #mark1174, #mark1175, #mark1176, #mark1177, #mark1178, #mark1179, #mark1180, #mark1181, #mark1182, #mark1183, #mark1184, #mark1185, #mark1186, #mark1187, #mark1188, #mark1189, #mark1190, #mark1191, #mark1192, #mark1193, #mark1194, #mark1195, #mark1196, #mark1197, #mark1198, #mark1199, #mark1200",
+        "effects": [
+          {
+            "type": "fade",
+            "duration": 300,
+            "chartIdx": 0
+          }
+        ],
+        "chartIdx": 0,
+        "id": "0_#mark1002, #mark1001, #mark1003, #mark1004, #mark1005, #mark1006, #mark1007, #mark1008, #mark1009, #mark1010, #mark1011, #mark1012, #mark1013, #mark1014, #mark1015, #mark1016, #mark1017, #mark1018, #mark1019, #mark1020, #mark1021, #mark1022, #mark1023, #mark1024, #mark1025, #mark1026, #mark1027, #mark1028, #mark1029, #mark1030, #mark1031, #mark1032, #mark1033, #mark1034, #mark1035, #mark1036, #mark1037, #mark1038, #mark1039, #mark1040, #mark1041, #mark1042, #mark1043, #mark1044, #mark1045, #mark1046, #mark1047, #mark1048, #mark1049, #mark1050, #mark1051, #mark1052, #mark1053, #mark1054, #mark1055, #mark1056, #mark1057, #mark1058, #mark1059, #mark1060, #mark1061, #mark1062, #mark1063, #mark1064, #mark1065, #mark1066, #mark1067, #mark1068, #mark1069, #mark1070, #mark1071, #mark1072, #mark1073, #mark1074, #mark1075, #mark1076, #mark1077, #mark1078, #mark1079, #mark1080, #mark1081, #mark1082, #mark1083, #mark1084, #mark1085, #mark1086, #mark1087, #mark1088, #mark1089, #mark1090, #mark1091, #mark1092, #mark1093, #mark1094, #mark1095, #mark1096, #mark1097, #mark1098, #mark1099, #mark1100, #mark1101, #mark1102, #mark1103, #mark1104, #mark1105, #mark1106, #mark1107, #mark1108, #mark1109, #mark1110, #mark1111, #mark1112, #mark1113, #mark1114, #mark1115, #mark1116, #mark1117, #mark1118, #mark1119, #mark1120, #mark1121, #mark1122, #mark1123, #mark1124, #mark1125, #mark1126, #mark1127, #mark1128, #mark1129, #mark1130, #mark1131, #mark1132, #mark1133, #mark1134, #mark1135, #mark1136, #mark1137, #mark1138, #mark1139, #mark1140, #mark1141, #mark1142, #mark1143, #mark1144, #mark1145, #mark1146, #mark1147, #mark1148, #mark1149, #mark1150, #mark1151, #mark1152, #mark1153, #mark1154, #mark1155, #mark1156, #mark1157, #mark1158, #mark1159, #mark1160, #mark1161, #mark1162, #mark1163, #mark1164, #mark1165, #mark1166, #mark1167, #mark1168, #mark1169, #mark1170, #mark1171, #mark1172, #mark1173, #mark1174, #mark1175, #mark1176, #mark1177, #mark1178, #mark1179, #mark1180, #mark1181, #mark1182, #mark1183, #mark1184, #mark1185, #mark1186, #mark1187, #mark1188, #mark1189, #mark1190, #mark1191, #mark1192, #mark1193, #mark1194, #mark1195, #mark1196, #mark1197, #mark1198, #mark1199, #mark1200",
+        "grouping": {
+          "groupBy": "Year",
+          "reference": "start after previous",
+          "sort": {
+            "order": [
+              "1992",
+              "1993",
+              "1994",
+              "1995",
+              "1996",
+              "1997",
+              "1998",
+              "1999",
+              "2000",
+              "2001",
+              "2002",
+              "2003",
+              "2004",
+              "2005",
+              "2006",
+              "2007",
+              "2008",
+              "2009",
+              "2010",
+              "2011"
+            ]
+          }
+        }
+      },
+      {
+        "selector": "#mark1, #mark2, #mark3, #mark4, #mark5, #mark6, #mark7, #mark8, #mark9, #mark10, #mark11, #mark12, #mark13, #mark14, #mark15, #mark16, #mark17, #mark18, #mark19, #mark20, #mark21, #mark22, #mark23, #mark24, #mark25, #mark26, #mark27, #mark28, #mark29, #mark30, #mark31, #mark32, #mark33, #mark34, #mark35, #mark36, #mark37, #mark38, #mark39, #mark40, #mark41, #mark42, #mark43, #mark44, #mark45, #mark46, #mark47, #mark48, #mark49, #mark50, #mark51, #mark52, #mark53, #mark54, #mark55, #mark56, #mark57, #mark58, #mark59, #mark60, #mark61, #mark62, #mark63, #mark64, #mark65, #mark66, #mark67, #mark68, #mark69, #mark70, #mark71, #mark72, #mark73, #mark74, #mark75, #mark76, #mark77, #mark78, #mark79, #mark80, #mark81, #mark82, #mark83, #mark84, #mark85, #mark86, #mark87, #mark88, #mark89, #mark90, #mark91, #mark92, #mark93, #mark94, #mark95, #mark96, #mark97, #mark98, #mark99, #mark100, #mark101, #mark102, #mark103, #mark104, #mark105, #mark106, #mark107, #mark108, #mark109, #mark110, #mark111, #mark112, #mark113, #mark114, #mark115, #mark116, #mark117, #mark118, #mark119, #mark120, #mark121, #mark122, #mark123, #mark124, #mark125, #mark126, #mark127, #mark128, #mark129, #mark130, #mark131, #mark132, #mark133, #mark134, #mark135, #mark136, #mark137, #mark138, #mark139, #mark140, #mark141, #mark142, #mark143, #mark144, #mark145, #mark146, #mark147, #mark148, #mark149, #mark150, #mark151, #mark152, #mark153, #mark154, #mark155, #mark156, #mark157, #mark158, #mark159, #mark160, #mark161, #mark162, #mark163, #mark164, #mark165, #mark166, #mark167, #mark168, #mark169, #mark170, #mark171, #mark172, #mark173, #mark174, #mark175, #mark176, #mark177, #mark178, #mark179, #mark180, #mark181, #mark182, #mark183, #mark184, #mark185, #mark186, #mark187, #mark188, #mark189, #mark190",
+        "effects": [
+          {
+            "type": "fade",
+            "duration": 300,
+            "chartIdx": 0
+          }
+        ],
+        "chartIdx": 0,
+        "reference": "start after previous",
+        "align": {
+          "target": "0_#mark1002, #mark1001, #mark1003, #mark1004, #mark1005, #mark1006, #mark1007, #mark1008, #mark1009, #mark1010, #mark1011, #mark1012, #mark1013, #mark1014, #mark1015, #mark1016, #mark1017, #mark1018, #mark1019, #mark1020, #mark1021, #mark1022, #mark1023, #mark1024, #mark1025, #mark1026, #mark1027, #mark1028, #mark1029, #mark1030, #mark1031, #mark1032, #mark1033, #mark1034, #mark1035, #mark1036, #mark1037, #mark1038, #mark1039, #mark1040, #mark1041, #mark1042, #mark1043, #mark1044, #mark1045, #mark1046, #mark1047, #mark1048, #mark1049, #mark1050, #mark1051, #mark1052, #mark1053, #mark1054, #mark1055, #mark1056, #mark1057, #mark1058, #mark1059, #mark1060, #mark1061, #mark1062, #mark1063, #mark1064, #mark1065, #mark1066, #mark1067, #mark1068, #mark1069, #mark1070, #mark1071, #mark1072, #mark1073, #mark1074, #mark1075, #mark1076, #mark1077, #mark1078, #mark1079, #mark1080, #mark1081, #mark1082, #mark1083, #mark1084, #mark1085, #mark1086, #mark1087, #mark1088, #mark1089, #mark1090, #mark1091, #mark1092, #mark1093, #mark1094, #mark1095, #mark1096, #mark1097, #mark1098, #mark1099, #mark1100, #mark1101, #mark1102, #mark1103, #mark1104, #mark1105, #mark1106, #mark1107, #mark1108, #mark1109, #mark1110, #mark1111, #mark1112, #mark1113, #mark1114, #mark1115, #mark1116, #mark1117, #mark1118, #mark1119, #mark1120, #mark1121, #mark1122, #mark1123, #mark1124, #mark1125, #mark1126, #mark1127, #mark1128, #mark1129, #mark1130, #mark1131, #mark1132, #mark1133, #mark1134, #mark1135, #mark1136, #mark1137, #mark1138, #mark1139, #mark1140, #mark1141, #mark1142, #mark1143, #mark1144, #mark1145, #mark1146, #mark1147, #mark1148, #mark1149, #mark1150, #mark1151, #mark1152, #mark1153, #mark1154, #mark1155, #mark1156, #mark1157, #mark1158, #mark1159, #mark1160, #mark1161, #mark1162, #mark1163, #mark1164, #mark1165, #mark1166, #mark1167, #mark1168, #mark1169, #mark1170, #mark1171, #mark1172, #mark1173, #mark1174, #mark1175, #mark1176, #mark1177, #mark1178, #mark1179, #mark1180, #mark1181, #mark1182, #mark1183, #mark1184, #mark1185, #mark1186, #mark1187, #mark1188, #mark1189, #mark1190, #mark1191, #mark1192, #mark1193, #mark1194, #mark1195, #mark1196, #mark1197, #mark1198, #mark1199, #mark1200",
+          "type": "element",
+          "merge": true
+        },
+        "id": "0_#mark1, #mark20, #mark39, #mark58, #mark77, #mark96, #mark115, #mark134, #mark153, #mark172, #mark2, #mark21, #mark40, #mark59, #mark78, #mark97, #mark116, #mark135, #mark154, #mark173, #mark3, #mark22, #mark41, #mark60, #mark79, #mark98, #mark117, #mark136, #mark155, #mark174, #mark4, #mark23, #mark42, #mark61, #mark80, #mark99, #mark118, #mark137, #mark156, #mark175, #mark5, #mark24, #mark43, #mark62, #mark81, #mark100, #mark119, #mark138, #mark157, #mark176, #mark6, #mark25, #mark44, #mark63, #mark82, #mark101, #mark120, #mark139, #mark158, #mark177, #mark7, #mark26, #mark45, #mark64, #mark83, #mark102, #mark121, #mark140, #mark159, #mark178, #mark8, #mark27, #mark46, #mark65, #mark84, #mark103, #mark122, #mark141, #mark160, #mark179, #mark9, #mark28, #mark47, #mark66, #mark85, #mark104, #mark123, #mark142, #mark161, #mark180, #mark10, #mark29, #mark48, #mark67, #mark86, #mark105, #mark124, #mark143, #mark162, #mark181, #mark11, #mark30, #mark49, #mark68, #mark87, #mark106, #mark125, #mark144, #mark163, #mark182, #mark12, #mark31, #mark50, #mark69, #mark88, #mark107, #mark126, #mark145, #mark164, #mark183, #mark13, #mark32, #mark51, #mark70, #mark89, #mark108, #mark127, #mark146, #mark165, #mark184, #mark14, #mark33, #mark52, #mark71, #mark90, #mark109, #mark128, #mark147, #mark166, #mark185, #mark15, #mark34, #mark53, #mark72, #mark91, #mark110, #mark129, #mark148, #mark167, #mark186, #mark16, #mark35, #mark54, #mark73, #mark92, #mark111, #mark130, #mark149, #mark168, #mark187, #mark17, #mark36, #mark55, #mark74, #mark93, #mark112, #mark131, #mark150, #mark169, #mark188, #mark18, #mark37, #mark56, #mark75, #mark94, #mark113, #mark132, #mark151, #mark170, #mark189, #mark19, #mark38, #mark57, #mark76, #mark95, #mark114, #mark133, #mark152, #mark171, #mark190"
+      },
+      {
+        "selector": "#mark2001, #mark2002, #mark2003, #mark2004, #mark2005, #mark2006, #mark2007, #mark2008, #mark2009, #mark2010, #mark3001, #mark3002, #mark3003, #mark4001, #mark4002, #mark4003, #mark4004, #mark4005, #mark4006, #mark4007, #mark4008, #mark4009, #mark4010, #mark4011, #mark4012, #mark4013, #mark4014, #mark4015, #mark4016, #mark4017, #mark4018, #mark4019, #mark4020, #mark5001, #mark5002, #mark5003, #mark5004, #mark5005, #mark5006, #mark5007, #mark5008, #mark5009, #mark5010, #mark5011, #mark5012, #mark5013, #mark5014, #mark5015, #mark5016, #mark5017, #mark5018, #mark5019, #mark5020, #mark6001",
+        "effects": [
+          {
+            "type": "fade",
+            "duration": 300,
+            "chartIdx": 0
+          }
+        ],
+        "chartIdx": 0,
+        "reference": "start after previous",
+        "id": "0_#mark2001, #mark2002, #mark2003, #mark2004, #mark2005, #mark2006, #mark2007, #mark2008, #mark2009, #mark2010, #mark3001, #mark4001, #mark4002, #mark4003, #mark4004, #mark4005, #mark4006, #mark4007, #mark4008, #mark4009, #mark4010, #mark4011, #mark4012, #mark4013, #mark4014, #mark4015, #mark4016, #mark4017, #mark4018, #mark4019, #mark4020, #mark3002, #mark3003, #mark5001, #mark5002, #mark5003, #mark5004, #mark5005, #mark5006, #mark5007, #mark5008, #mark5009, #mark5010, #mark5011, #mark5012, #mark5013, #mark5014, #mark5015, #mark5016, #mark5017, #mark5018, #mark5019, #mark5020, #mark6001"
+      }
+    ]
+  }
+}
